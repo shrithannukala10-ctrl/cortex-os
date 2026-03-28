@@ -13,7 +13,7 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtCore import Qt, QPoint
 
 # 🔑 API KEY
-API_KEY = "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"
+API_KEY = "paste_your_api_key"
 
 url = "https://openrouter.ai/api/v1/chat/completions"
 
